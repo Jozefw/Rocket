@@ -38,11 +38,14 @@ body {
 .icon-section__wrapper {
     text-align: center;
     max-width: 100%;
+    margin-left: 12rem;
+    margin-right: 15rem;
+    margin: 0 15rem 0 12rem;
 }
 
 .image-header__wrapper {
     padding-top: 3.5rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 3rem;
 }
 
 .header__copy {
@@ -81,10 +84,12 @@ body {
 .image-item__header {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.6rem;
+    padding-top:2rem;
 }
 
 .image-item__copy{
     font-size: 1.5rem;
+    padding-top: 1.8rem;
 }
 .image__item{
     display: inline-block;
