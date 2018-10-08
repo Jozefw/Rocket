@@ -162,6 +162,12 @@ body {
     }
     .image-item__copy {
         font-size: 1.25rem;
+        padding-left: 2.4rem;
+        padding-right: 2.4rem;
+    }
+  
+    .icon-section__wrapper {
+        margin: 0 0rem 0 0rem;
     }
 }
 
@@ -172,6 +178,9 @@ body {
     .icon-section__wrapper {
         text-align: center;
         max-width: 100%;
+        margin-left: 0rem;
+        margin-right: 0rem;
+        margin: 0 0rem 0 0rem;
     }
 
     .arrow__wrapper {
